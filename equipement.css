@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+}
+body{
+    background-image: url(luffygear5.jpg);
+    background-size: 1450px;
+    backdrop-filter: blur(15px);
+}
